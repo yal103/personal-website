@@ -9,5 +9,5 @@ export default defineConfig({
       localsConvention: 'camelCase'
     }
   },
-  base: "/yal103.github.io",
+  base: "/yangyang-portfolio",
 })
