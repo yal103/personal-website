@@ -8,5 +8,6 @@ export default defineConfig({
     modules: {
       localsConvention: 'camelCase'
     }
-  }
+  },
+  base: "/yal103.github.io",
 })
